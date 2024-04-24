@@ -36,8 +36,12 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 ```
 Your answer here...
 
-
-
+1. Paper Rings
+2. Season 10
+3. Meets
+4. and
+6. Lucky
+7. Stars
 
 ```
 
